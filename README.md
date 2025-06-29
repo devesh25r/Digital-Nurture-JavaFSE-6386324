@@ -1,4 +1,4 @@
-All the mandatory hands-on as defined are completed honestly, Please read the instruction below & also navigate thoroughly as every exerise is completed with dedication.
+All the mandatory hands-on as defined are completed honestly, Please read the instructions below & also navigate thoroughly as every exerise is completed with dedication.
 
 Week 1:
 All the exercises are completed with the .java files inside the src folder.
