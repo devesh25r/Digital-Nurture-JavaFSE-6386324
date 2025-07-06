@@ -9,3 +9,9 @@ All the exercises are completed.
 - JUnit, Mockito & SLF4J exercises are done as per instructions:
   ~ JUnit folder contains a maven project with different classes and test classes as per requirement alongwith necessary screenshots.
   ~ Similarly it is done for Mockito & SLF4J as separate folders. 
+
+Week 3:
+All the exercises are completed.
+- Spring core & Maven exercises are submitted in LibraryManagement project with output screenshots for each of them.
+- Spring data JPA with Hibernate mandatory hands-on 1 is submitted under orm-learn project alongwith screenshot.
+- Also the hands-on 4 is submitted in a .docx file.
