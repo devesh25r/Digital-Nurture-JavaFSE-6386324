@@ -15,3 +15,7 @@ All the exercises are completed.
 - Spring core & Maven exercises are submitted in LibraryManagement project with output screenshots for each of them.
 - Spring data JPA with Hibernate mandatory hands-on 1 is submitted under orm-learn project alongwith screenshot.
 - Also the hands-on 4 is submitted in a .docx file.
+
+Week 4:
+All the mandatory hands-on are completed
+- A project named 'spring-learn' contains all the hands-on solutions with a screenshot of output for each.
