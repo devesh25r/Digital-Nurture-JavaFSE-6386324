@@ -19,3 +19,7 @@ All the exercises are completed.
 Week 4:
 All the mandatory hands-on are completed
 - A project named 'spring-learn' contains all the hands-on solutions with a screenshot of output for each.
+
+Week 5:
+All the mandatory hands-on completed within deadline.
+- There are two separate projects named account & loan with the output screenshots attached for both. 
