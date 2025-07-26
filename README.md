@@ -23,3 +23,7 @@ All the mandatory hands-on are completed
 Week 5:
 All the mandatory hands-on completed within deadline.
 - There are two separate projects named account & loan with the output screenshots attached for both. 
+
+Week 6:
+All the mandatory hands-on completed within deadline.
+- All projects are completed with different folders alongwith their respective output screenshots.
